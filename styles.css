@@ -1,0 +1,21 @@
+
+body {
+    background-color: papayawhip;
+}
+h2 {
+    color: #66bfbf;
+}
+
+h3 {
+    color: #66bfbf;
+}
+
+hr {
+    background-color: papayawhip;
+    border: none;
+    border-top: 1px dotted #DBA39A;
+    border-width: 5px;
+    height: 8px;
+    width: 5%;
+}
+
